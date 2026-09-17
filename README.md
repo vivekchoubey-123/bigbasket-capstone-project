@@ -1,62 +1,91 @@
-##### BigBasket Capstone Project
+# BigBasket Capstone Project
 
-##### Overview
+## Overview
 
-##### This project analyzes a BigBasket-style SQLite dataset for January–June 2026. It includes database generation, SQLite diagnostic queries, a monthly revenue export, an Excel summary, a Pandas cleaning notebook, a data story, an AI-assisted prompting log, and a Tableau workbook.
+This project analyzes a BigBasket-style e-commerce dataset using SQL, Python, Excel, SQLite, and Tableau.
 
-##### Repository structure
+The project focuses on order analysis, revenue analysis, customer insights, and business reporting.
 
-* ##### `database/bigbasket\_capstone.db` — SQLite database
-* ##### `database/bigbasket\_capstone.sqbpro` — DB Browser for SQLite project file
-* ##### `scripts/generate\_data.py` — data-generation entry point
-* ##### `data/orders.csv`, `data/products.csv` — CSV data files
-* ##### `sql/` — SQL scripts
-* ##### `output/monthly\_category\_revenue.csv` — reporting export
-* ##### `excel/bigbasket\_analysis.xlsx` — spreadsheet workbook
-* ##### `notebooks/analysis.ipynb` — cleaning and analysis notebook
-* ##### `docs/data\_story.md` — written findings
-* ##### `docs/ai\_log.md` — AI prompting and verification log
-* ##### `tableau/TABLEAU CAPSTONE PROJECT.twb` — Tableau Desktop workbook
+## Tools Used
 
-##### Run locally
+- SQLite
+- SQL
+- Python
+- Pandas
+- Jupyter Notebook
+- Microsoft Excel
+- Tableau Desktop
+- GitHub
 
-##### From the repository root:
+## Project Files
 
-```bash
-python scripts/generate\_data.py
-```
----
+### Database
 
-##### SQL
+- bigbasket_capstone.db
+- bigbasket_capstone.sqbpro
 
-##### Open `database/bigbasket\_capstone.db` in DB Browser for SQLite, then run the scripts in `sql/` in this order:
+### SQL Scripts
 
-1. ##### `01\_foundations.sql`
-2. ##### `02\_aggregation\_joins.sql`
-3. ##### `03\_reporting.sql`
-4. ##### `verify.sql`
+- 01_foundations.sql
+- 02_aggregation_joins.sql
+- 03_reporting.sql
+- verify.sql
 
-##### Notebook
+### Python Analysis
 
-##### Install dependencies:
+- analysis.ipynb
+- generate_data.py
 
-```bash
-pip install pandas numpy matplotlib jupyter openpyxl
-```
----
+### Data Files
 
-##### Run:
+- orders.csv
+- products.csv
 
-```bash
-jupyter notebook
-```
----
+### Excel Analysis
 
-##### Then open `notebooks/analysis.ipynb`.
+- bigbasket_analysis.xlsx
 
-##### Tableau
+### Tableau Dashboard
 
-##### Open `tableau/TABLEAU CAPSTONE PROJECT.twb` in Tableau Desktop.
+- TABLEAU CAPSTONE PROJECT.twb
 
-##### The Tableau Public dashboard was not published. I try but public option is not available in my desktop version not able to create a tableau public repository .
+### Documentation
 
+- data_story.md
+- ai_log.md
+
+### Output
+
+- monthly_category_revenue.csv
+
+## Dashboard
+
+The Tableau dashboard includes:
+
+- Delivered Revenue
+- Total Orders
+- Delivered Orders
+- Average Order Value
+- Revenue by Category
+- Monthly Revenue
+- Order Status Distribution
+- Orders by City
+
+## Key Business Questions
+
+1. What is the total revenue?
+2. How many orders were delivered?
+3. Which categories generate the highest revenue?
+4. How does revenue change over time?
+5. What is the distribution of order statuses?
+6. Which cities have the highest number of orders?
+
+## Tableau Public
+
+Tableau Public dashboard link:
+
+Not published yet because not able to do generate public tableau link
+
+
+
+Vivek Choubey
