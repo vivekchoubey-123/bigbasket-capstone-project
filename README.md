@@ -84,7 +84,13 @@ The Tableau dashboard includes:
 
 Tableau Public dashboard link:
 
-Not published yet because not able to do generate public tableau link
+## Tableau Public
+
+Tableau Public dashboard link Not available because in my tableau desktop public dashboard is not visible so
+i wont able to create public link. Dashboard created using Tableau Desktop.
+
+The Tableau workbook is included in this repository:
+TABLEAU CAPSTONE PROJECT.twb
 
 
 
