@@ -1,0 +1,31 @@
+product_id,product_name,category,supplier,unit_price_inr
+1,Household Essentials Product 1,Household Essentials,HomeEssentials Traders,125
+2,Household Essentials Product 2,Household Essentials,HomeEssentials Traders,150
+3,Household Essentials Product 3,Household Essentials,HomeEssentials Traders,175
+4,Household Essentials Product 4,Household Essentials,HomeEssentials Traders,200
+5,Household Essentials Product 5,Household Essentials,HomeEssentials Traders,225
+6,Personal Care Product 1,Personal Care,CarePlus Distributors,125
+7,Personal Care Product 2,Personal Care,CarePlus Distributors,150
+8,Personal Care Product 3,Personal Care,CarePlus Distributors,175
+9,Personal Care Product 4,Personal Care,CarePlus Distributors,200
+10,Personal Care Product 5,Personal Care,CarePlus Distributors,225
+11,Bakery Product 1,Bakery,FreshBake Foods,125
+12,Bakery Product 2,Bakery,FreshBake Foods,150
+13,Bakery Product 3,Bakery,FreshBake Foods,175
+14,Bakery Product 4,Bakery,FreshBake Foods,200
+15,Bakery Product 5,Bakery,FreshBake Foods,225
+16,Dairy & Eggs Product 1,Dairy & Eggs,Daily Dairy Co,125
+17,Dairy & Eggs Product 2,Dairy & Eggs,Daily Dairy Co,150
+18,Dairy & Eggs Product 3,Dairy & Eggs,Daily Dairy Co,175
+19,Dairy & Eggs Product 4,Dairy & Eggs,Daily Dairy Co,200
+20,Dairy & Eggs Product 5,Dairy & Eggs,Daily Dairy Co,225
+21,Snacks & Beverages Product 1,Snacks & Beverages,SnackWorld Suppliers,125
+22,Snacks & Beverages Product 2,Snacks & Beverages,SnackWorld Suppliers,150
+23,Snacks & Beverages Product 3,Snacks & Beverages,SnackWorld Suppliers,175
+24,Snacks & Beverages Product 4,Snacks & Beverages,SnackWorld Suppliers,200
+25,Snacks & Beverages Product 5,Snacks & Beverages,SnackWorld Suppliers,225
+26,Fruits & Vegetables Product 1,Fruits & Vegetables,GreenBasket Farms,125
+27,Fruits & Vegetables Product 2,Fruits & Vegetables,GreenBasket Farms,150
+28,Fruits & Vegetables Product 3,Fruits & Vegetables,GreenBasket Farms,175
+29,Fruits & Vegetables Product 4,Fruits & Vegetables,GreenBasket Farms,200
+30,Fruits & Vegetables Product 5,Fruits & Vegetables,GreenBasket Farms,225

@@ -1,0 +1,511 @@
+order_id,order_date,customer_id,product_id,city,category,amount_inr,status,rating
+1,2026-04-09,14,5,Mumbai,Household Essentials,241,Delivered,3
+2,2026-02-21,26,4,Bengaluru,Household Essentials,242,Delivered,2
+3,2026-03-05,48,5,Pune,Household Essentials,241,Delivered,5
+4,2026-03-24,38,4, bengaluru ,Household Essentials,242,Delivered,3
+5,2026-02-05,6,1,Bengaluru,household essentials,241,Delivered,1
+6,2026-02-21,44,4,Pune,Household Essentials,241,Delivered,5
+7,2026-01-13,39,4,Bengaluru,Household Essentials,242,Delivered,5
+8,2026-03-18,44,1, mumbai ,Household Essentials,241,Delivered,5
+9,2026-03-25,8,3,Hyderabad,Household Essentials,241,Delivered,4
+10,2026-02-15,47,3,Mumbai,household essentials,241,Pending,5
+10,2026-02-15,47,3,Mumbai,household essentials,241,Pending,5
+11,2026-02-17,41,3,Mumbai,Household Essentials,241,Delivered,5
+12,2026-05-07,24,2, pune ,Household Essentials,241,Delivered,5
+13,2026-05-01,32,1,Hyderabad,Household Essentials,241,Delivered,1
+14,2026-03-27,16,1,Hyderabad,Household Essentials,242,Cancelled,2
+15,2026-05-03,47,4,Mumbai,household essentials,241,Cancelled,1
+16,2026-05-25,9,4, pune ,Household Essentials,241,Delivered,5
+17,2026-02-09,14,5,Bengaluru,Household Essentials,241,Delivered,
+18,2026-06-10,43,3,Bengaluru,Household Essentials,241,Cancelled,4
+19,2026-05-15,16,2,Mumbai,Household Essentials,241,Delivered,1
+20,2026-03-01,38,2, pune ,household essentials,241,Delivered,1
+20,2026-03-01,38,2, pune ,household essentials,241,Delivered,1
+21,2026-01-23,15,1,Mumbai,Household Essentials,241,Delivered,1
+22,2026-03-03,18,4,Pune,Household Essentials,241,Delivered,2
+23,2026-05-05,16,4,Bengaluru,Household Essentials,241,Delivered,4
+24,2026-02-04,43,4, mumbai ,Household Essentials,241,Delivered,3
+25,2026-04-14,47,1,Bengaluru,household essentials,241,Delivered,1
+26,2026-01-13,7,2,Hyderabad,Household Essentials,242,Pending,2
+27,2026-02-18,9,4,Bengaluru,Household Essentials,241,Delivered,2
+28,2026-03-15,5,4, pune ,Household Essentials,241,Cancelled,5
+29,2026-01-02,6,2,Mumbai,Household Essentials,241,Delivered,2
+30,2026-04-16,14,4,Bengaluru,household essentials,241,Delivered,1
+30,2026-04-16,14,4,Bengaluru,household essentials,241,Delivered,1
+31,2026-02-13,25,3,Mumbai,Household Essentials,241,Delivered,4
+32,2026-03-14,10,2, bengaluru ,Household Essentials,241,Delivered,3
+33,2026-02-02,48,3,Mumbai,Household Essentials,241,Delivered,1
+34,2026-01-19,33,5,Bengaluru,Household Essentials,241,Delivered,
+35,2026-01-17,12,1,Mumbai,household essentials,241,Delivered,5
+36,2026-01-22,26,1, pune ,Household Essentials,241,Delivered,5
+37,2026-02-19,40,1,Mumbai,Household Essentials,,Delivered,4
+38,2026-06-19,17,2,Hyderabad,Household Essentials,241,Delivered,3
+39,2026-02-09,9,3,Bengaluru,Household Essentials,242,Delivered,4
+40,2026-03-25,1,4, mumbai ,household essentials,242,Delivered,5
+40,2026-03-25,1,4, mumbai ,household essentials,242,Delivered,5
+41,2026-05-04,35,2,Mumbai,Household Essentials,241,Delivered,5
+42,2026-03-05,5,2,Hyderabad,Household Essentials,241,Cancelled,3
+43,2026-03-06,35,3,Bengaluru,Household Essentials,241,Delivered,5
+44,2026-06-17,43,5, mumbai ,Household Essentials,242,Delivered,3
+45,2026-06-04,17,1,Pune,household essentials,241,Delivered,1
+46,2026-06-18,18,3,Pune,Household Essentials,241,Delivered,5
+47,2026-02-23,14,3,Hyderabad,Household Essentials,242,Delivered,5
+48,2026-04-09,6,4, mumbai ,Household Essentials,242,Delivered,3
+49,2026-01-01,50,2,Hyderabad,Household Essentials,241,Delivered,3
+50,2026-02-24,36,4,Bengaluru,household essentials,241,Delivered,5
+50,2026-02-24,36,4,Bengaluru,household essentials,241,Delivered,5
+51,2026-01-04,45,2,Mumbai,Household Essentials,242,Delivered,
+52,2026-01-27,38,5, hyderabad ,Household Essentials,241,Delivered,2
+53,2026-04-05,20,3,Mumbai,Household Essentials,242,Delivered,1
+54,2026-03-07,43,1,Pune,Household Essentials,242,Delivered,3
+55,2026-05-28,40,2,Bengaluru,household essentials,242,Delivered,2
+56,2026-02-26,27,1, pune ,Household Essentials,241,Delivered,2
+57,2026-06-11,43,2,Bengaluru,Household Essentials,241,Delivered,3
+58,2026-02-26,25,1,Mumbai,Household Essentials,241,Cancelled,4
+59,2026-02-07,23,3,Bengaluru,Household Essentials,242,Pending,2
+60,2026-02-01,26,3, pune ,household essentials,241,Delivered,3
+60,2026-02-01,26,3, pune ,household essentials,241,Delivered,3
+61,2026-01-25,23,5,Hyderabad,Household Essentials,242,Delivered,4
+62,2026-06-27,2,1,Hyderabad,Household Essentials,241,Delivered,3
+63,2026-02-19,3,1,Hyderabad,Household Essentials,241,Delivered,5
+64,2026-04-12,28,5, hyderabad ,Household Essentials,242,Delivered,5
+65,2026-01-13,17,1,Pune,household essentials,242,Delivered,4
+66,2026-01-17,24,4,Pune,Household Essentials,241,Pending,1
+67,2026-06-11,43,1,Hyderabad,Household Essentials,241,Delivered,3
+68,2026-05-10,21,4, bengaluru ,Household Essentials,241,Delivered,
+69,2026-05-05,27,4,Pune,Household Essentials,241,Delivered,2
+70,2026-05-19,26,5,Hyderabad,household essentials,241,Delivered,1
+70,2026-05-19,26,5,Hyderabad,household essentials,241,Delivered,1
+71,2026-03-10,28,5,Pune,Household Essentials,241,Delivered,5
+72,2026-06-11,29,4, bengaluru ,Household Essentials,241,Delivered,2
+73,2026-05-16,43,1,Pune,Household Essentials,241,Delivered,3
+74,2026-05-22,6,2,Hyderabad,Household Essentials,,Delivered,3
+75,2026-02-26,10,1,Pune,household essentials,241,Delivered,1
+76,2026-02-16,30,4, mumbai ,Household Essentials,241,Delivered,5
+77,2026-02-23,32,4,Bengaluru,Household Essentials,241,Delivered,2
+78,2026-02-21,49,1,Mumbai,Household Essentials,242,Delivered,4
+79,2026-02-06,4,5,Bengaluru,Household Essentials,241,Delivered,2
+80,2026-01-15,30,5, pune ,household essentials,241,Delivered,5
+80,2026-01-15,30,5, pune ,household essentials,241,Delivered,5
+81,2026-05-11,40,5,Bengaluru,Household Essentials,242,Delivered,4
+82,2026-05-15,48,4,Pune,Household Essentials,241,Delivered,4
+83,2026-03-25,41,3,Pune,Household Essentials,242,Delivered,5
+84,2026-04-21,18,4, pune ,Household Essentials,242,Delivered,1
+85,2026-06-10,18,3,Pune,household essentials,241,Delivered,
+86,2026-05-03,10,2,Pune,Household Essentials,241,Delivered,4
+87,2026-06-05,5,4,Pune,Household Essentials,241,Pending,4
+88,2026-03-18,27,1, bengaluru ,Household Essentials,242,Pending,2
+89,2026-04-13,49,5,Mumbai,Household Essentials,242,Delivered,4
+90,2026-04-01,20,4,Hyderabad,household essentials,241,Delivered,4
+90,2026-04-01,20,4,Hyderabad,household essentials,241,Delivered,4
+91,2026-06-20,37,6,Mumbai,Personal Care,193,Delivered,3
+92,2026-05-14,5,10, hyderabad ,Personal Care,192,Delivered,3
+93,2026-01-28,32,6,Bengaluru,Personal Care,193,Delivered,4
+94,2026-03-21,46,7,Bengaluru,Personal Care,193,Cancelled,4
+95,2026-02-24,40,10,Hyderabad,personal care,193,Delivered,4
+96,2026-04-14,21,7, hyderabad ,Personal Care,193,Delivered,1
+97,2026-03-15,49,9,Pune,Personal Care,192,Delivered,5
+98,2026-05-22,22,6,Bengaluru,Personal Care,193,Delivered,4
+99,2026-03-06,14,8,Bengaluru,Personal Care,192,Delivered,3
+100,2026-03-09,36,6, hyderabad ,personal care,193,Delivered,5
+100,2026-03-09,36,6, hyderabad ,personal care,193,Delivered,5
+101,2026-02-03,47,9,Pune,Personal Care,192,Delivered,4
+102,2026-05-25,45,9,Pune,Personal Care,192,Delivered,
+103,2026-04-26,6,8,Mumbai,Personal Care,193,Delivered,2
+104,2026-04-23,20,10, pune ,Personal Care,193,Delivered,3
+105,2026-04-18,28,10,Hyderabad,personal care,193,Delivered,3
+106,2026-03-23,18,8,Bengaluru,Personal Care,193,Delivered,3
+107,2026-02-04,21,6,Pune,Personal Care,193,Cancelled,5
+108,2026-06-06,14,9, pune ,Personal Care,193,Delivered,3
+109,2026-06-19,7,7,Hyderabad,Personal Care,193,Delivered,3
+110,2026-02-12,20,6,Pune,personal care,193,Delivered,5
+111,2026-02-09,4,10,Mumbai,Personal Care,,Delivered,3
+112,2026-06-05,7,6, bengaluru ,Personal Care,192,Pending,5
+113,2026-03-16,29,8,Bengaluru,Personal Care,99999,Delivered,2
+114,2026-01-09,8,6,Bengaluru,Personal Care,193,Delivered,4
+115,2026-04-03,10,7,Mumbai,personal care,193,Delivered,5
+116,2026-03-03,8,10, pune ,Personal Care,193,Delivered,4
+117,2026-05-20,50,10,Pune,Personal Care,193,Delivered,4
+118,2026-04-15,38,9,Hyderabad,Personal Care,193,Cancelled,3
+119,2026-05-20,40,6,Mumbai,Personal Care,192,Delivered,
+120,2026-06-07,43,6, hyderabad ,personal care,193,Delivered,2
+121,2026-02-06,11,6,Mumbai,Personal Care,193,Cancelled,4
+122,2026-04-23,19,6,Bengaluru,Personal Care,193,Delivered,2
+123,2026-03-23,45,9,Hyderabad,Personal Care,193,Delivered,1
+124,2026-06-08,41,10, hyderabad ,Personal Care,193,Delivered,2
+125,2026-04-04,42,7,Pune,personal care,193,Delivered,3
+126,2026-02-03,11,8,Mumbai,Personal Care,193,Delivered,5
+127,2026-06-27,29,6,Hyderabad,Personal Care,192,Pending,4
+128,2026-06-10,18,10, bengaluru ,Personal Care,193,Delivered,5
+129,2026-04-15,39,6,Mumbai,Personal Care,193,Delivered,4
+130,2026-06-11,2,6,Hyderabad,personal care,193,Pending,2
+131,2026-06-27,49,8,Mumbai,Personal Care,193,Delivered,5
+132,2026-01-25,31,10, pune ,Personal Care,193,Delivered,4
+133,2026-03-06,41,9,Bengaluru,Personal Care,192,Delivered,1
+134,2026-04-12,22,8,Bengaluru,Personal Care,193,Delivered,1
+135,2026-02-11,45,9,Bengaluru,personal care,193,Delivered,3
+136,2026-06-13,30,6, mumbai ,Personal Care,193,Delivered,
+137,2026-03-11,50,9,Mumbai,Personal Care,193,Delivered,5
+138,2026-01-22,27,6,Bengaluru,Personal Care,193,Delivered,2
+139,2026-05-12,41,9,Bengaluru,Personal Care,193,Delivered,1
+140,2026-02-09,19,9, pune ,personal care,193,Delivered,4
+141,2026-01-01,46,7,Pune,Personal Care,193,Delivered,3
+142,2026-05-01,6,7,Bengaluru,Personal Care,192,Delivered,1
+143,2026-04-04,32,8,Pune,Personal Care,193,Delivered,5
+144,2026-06-09,31,9, bengaluru ,Personal Care,193,Delivered,2
+145,2026-04-18,25,7,Pune,personal care,193,Delivered,5
+146,2026-05-24,5,8,Pune,Personal Care,193,Delivered,4
+147,2026-03-26,1,8,Hyderabad,Personal Care,193,Delivered,3
+148,2026-05-19,10,9, bengaluru ,Personal Care,,Cancelled,5
+149,2026-04-12,36,10,Hyderabad,Personal Care,192,Delivered,4
+150,2026-04-11,45,7,Pune,personal care,193,Delivered,5
+151,2026-04-08,3,8,Bengaluru,Personal Care,193,Delivered,4
+152,2026-06-26,25,7, bengaluru ,Personal Care,192,Delivered,4
+153,2026-01-05,7,9,Hyderabad,Personal Care,193,Cancelled,
+154,2026-05-15,47,7,Mumbai,Personal Care,193,Cancelled,4
+155,2026-06-05,31,8,Mumbai,personal care,193,Delivered,3
+156,2026-05-23,42,6, bengaluru ,Personal Care,192,Delivered,3
+157,2026-06-28,21,9,Bengaluru,Personal Care,193,Cancelled,5
+158,2026-01-20,16,8,Mumbai,Personal Care,192,Delivered,2
+159,2026-06-03,7,6,Bengaluru,Personal Care,192,Delivered,4
+160,2026-02-23,2,6, hyderabad ,personal care,193,Delivered,3
+161,2026-01-10,24,9,Hyderabad,Personal Care,193,Cancelled,2
+162,2026-02-17,37,7,Bengaluru,Personal Care,193,Delivered,2
+163,2026-02-03,40,7,Bengaluru,Personal Care,193,Delivered,4
+164,2026-05-05,30,8, pune ,Personal Care,193,Delivered,4
+165,2026-03-22,30,8,Mumbai,personal care,193,Delivered,5
+166,2026-02-03,23,10,Bengaluru,Personal Care,193,Delivered,3
+167,2026-06-14,30,8,Hyderabad,Personal Care,192,Delivered,2
+168,2026-04-28,7,7, bengaluru ,Personal Care,193,Delivered,4
+169,2026-05-12,45,8,Hyderabad,Personal Care,193,Delivered,1
+170,2026-06-13,1,10,Hyderabad,personal care,192,Delivered,
+171,2026-05-24,19,7,Bengaluru,Personal Care,192,Cancelled,5
+172,2026-03-08,40,8, pune ,Personal Care,193,Delivered,2
+173,2026-06-04,20,9,Mumbai,Personal Care,192,Pending,1
+174,2026-05-12,6,8,Pune,Personal Care,192,Delivered,3
+175,2026-06-14,13,7,Pune,personal care,192,Delivered,5
+176,2026-05-21,4,14, hyderabad ,Bakery,188,Delivered,3
+177,2026-02-04,6,12,Bengaluru,Bakery,188,Delivered,5
+178,2026-01-02,16,12,Hyderabad,Bakery,188,Delivered,5
+179,2026-02-03,38,12,Pune,Bakery,187,Delivered,2
+180,2026-03-25,39,11, pune ,bakery,188,Cancelled,3
+181,2026-02-05,12,11,Hyderabad,Bakery,188,Delivered,1
+182,2026-02-01,16,15,Hyderabad,Bakery,187,Cancelled,3
+183,2026-01-06,4,12,Hyderabad,Bakery,188,Delivered,4
+184,2026-05-04,31,14, mumbai ,Bakery,188,Pending,3
+185,2026-05-19,29,15,Mumbai,bakery,,Delivered,2
+186,2026-05-02,30,11,Hyderabad,Bakery,188,Cancelled,1
+187,2026-04-28,28,11,Bengaluru,Bakery,188,Delivered,
+188,2026-06-15,6,13, mumbai ,Bakery,188,Delivered,5
+189,2026-02-03,18,15,Pune,Bakery,188,Delivered,5
+190,2026-05-23,25,15,Hyderabad,bakery,188,Cancelled,5
+191,2026-03-15,7,11,Bengaluru,Bakery,188,Delivered,5
+192,2026-06-28,28,14, pune ,Bakery,188,Delivered,2
+193,2026-04-11,26,14,Bengaluru,Bakery,188,Delivered,1
+194,2026-03-14,43,13,Hyderabad,Bakery,188,Delivered,3
+195,2026-02-22,5,11,Bengaluru,bakery,188,Delivered,1
+196,2026-01-14,48,13, mumbai ,Bakery,188,Delivered,2
+197,2026-05-02,43,11,Hyderabad,Bakery,187,Delivered,4
+198,2026-03-28,47,11,Bengaluru,Bakery,188,Delivered,3
+199,2026-05-10,7,15,Hyderabad,Bakery,188,Delivered,5
+200,2026-02-05,15,11, bengaluru ,bakery,188,Delivered,3
+201,2026-05-12,49,13,Mumbai,Bakery,188,Delivered,5
+202,2026-02-26,36,15,Bengaluru,Bakery,188,Delivered,5
+203,2026-06-21,39,13,Mumbai,Bakery,188,Cancelled,1
+204,2026-02-09,22,13, hyderabad ,Bakery,188,Delivered,
+205,2026-02-28,37,14,Pune,bakery,188,Delivered,1
+206,2026-02-24,6,15,Mumbai,Bakery,188,Delivered,2
+207,2026-04-14,22,12,Bengaluru,Bakery,188,Delivered,3
+208,2026-03-24,50,15, hyderabad ,Bakery,188,Cancelled,5
+209,2026-01-02,11,15,Pune,Bakery,188,Pending,1
+210,2026-06-03,29,14,Hyderabad,bakery,188,Delivered,4
+211,2026-05-15,18,12,Bengaluru,Bakery,188,Delivered,5
+212,2026-01-12,8,13, bengaluru ,Bakery,188,Delivered,5
+213,2026-04-17,3,12,Hyderabad,Bakery,188,Delivered,4
+214,2026-05-02,14,13,Mumbai,Bakery,188,Delivered,2
+215,2026-02-25,19,13,Hyderabad,bakery,188,Delivered,1
+216,2026-01-16,12,12, bengaluru ,Bakery,188,Delivered,4
+217,2026-05-23,33,15,Pune,Bakery,188,Delivered,3
+218,2026-01-13,28,11,Mumbai,Bakery,188,Delivered,4
+219,2026-01-28,37,14,Hyderabad,Bakery,188,Delivered,5
+220,2026-04-23,19,11, bengaluru ,bakery,188,Delivered,4
+221,2026-01-11,40,14,Pune,Bakery,188,Delivered,
+222,2026-01-14,16,14,Mumbai,Bakery,,Delivered,5
+223,2026-04-17,26,13,Mumbai,Bakery,188,Delivered,3
+224,2026-02-11,5,15, pune ,Bakery,188,Delivered,1
+225,2026-05-17,50,13,Pune,bakery,188,Pending,3
+226,2026-06-27,16,11,Pune,Bakery,99999,Cancelled,2
+227,2026-03-07,39,12,Pune,Bakery,188,Delivered,1
+228,2026-02-25,30,15, bengaluru ,Bakery,188,Delivered,5
+229,2026-04-22,41,13,Hyderabad,Bakery,188,Pending,2
+230,2026-04-03,29,13,Bengaluru,bakery,188,Delivered,3
+231,2026-05-02,33,11,Hyderabad,Bakery,188,Delivered,3
+232,2026-04-15,4,13, mumbai ,Bakery,188,Delivered,3
+233,2026-01-21,40,15,Mumbai,Bakery,188,Delivered,5
+234,2026-04-15,29,15,Mumbai,Bakery,188,Delivered,2
+235,2026-03-20,33,12,Bengaluru,bakery,188,Delivered,1
+236,2026-04-04,46,11, hyderabad ,Bakery,188,Delivered,5
+237,2026-06-06,16,14,Mumbai,Bakery,187,Delivered,4
+238,2026-05-17,24,13,Pune,Bakery,188,Delivered,
+239,2026-04-14,44,15,Hyderabad,Bakery,188,Delivered,1
+240,2026-06-21,5,13, hyderabad ,bakery,187,Delivered,1
+241,2026-05-22,19,13,Bengaluru,Bakery,188,Delivered,5
+242,2026-02-11,38,12,Mumbai,Bakery,187,Delivered,3
+243,2026-03-21,9,15,Bengaluru,Bakery,188,Delivered,1
+244,2026-03-18,42,13, bengaluru ,Bakery,188,Cancelled,2
+245,2026-06-23,42,14,Mumbai,bakery,188,Delivered,5
+246,2026-03-01,20,12,Hyderabad,Bakery,188,Pending,2
+247,2026-03-25,13,12,Bengaluru,Bakery,188,Delivered,2
+248,2026-02-03,7,15, hyderabad ,Bakery,188,Cancelled,5
+249,2026-06-17,43,13,Mumbai,Bakery,188,Delivered,5
+250,2026-02-20,10,12,Bengaluru,bakery,188,Cancelled,2
+251,2026-06-25,47,14,Pune,Bakery,188,Delivered,1
+252,2026-04-12,29,15, pune ,Bakery,188,Delivered,3
+253,2026-06-26,15,15,Bengaluru,Bakery,188,Delivered,2
+254,2026-03-26,13,13,Bengaluru,Bakery,188,Delivered,5
+255,2026-04-15,50,14,Hyderabad,bakery,188,Delivered,
+256,2026-05-14,13,15, pune ,Bakery,188,Delivered,2
+257,2026-03-02,24,15,Bengaluru,Bakery,188,Delivered,1
+258,2026-01-17,25,19,Mumbai,Dairy & Eggs,176,Delivered,1
+259,2026-06-13,17,16,Hyderabad,Dairy & Eggs,,Delivered,3
+260,2026-01-12,47,16, pune ,dairy & eggs,176,Delivered,5
+261,2026-06-25,9,16,Hyderabad,Dairy & Eggs,176,Delivered,3
+262,2026-05-11,50,19,Pune,Dairy & Eggs,176,Delivered,4
+263,2026-06-06,5,19,Pune,Dairy & Eggs,176,Delivered,1
+264,2026-03-07,13,16, mumbai ,Dairy & Eggs,176,Delivered,3
+265,2026-03-17,35,19,Bengaluru,dairy & eggs,176,Delivered,3
+266,2026-01-25,19,18,Pune,Dairy & Eggs,176,Pending,1
+267,2026-06-11,8,18,Hyderabad,Dairy & Eggs,176,Delivered,4
+268,2026-04-24,25,18, bengaluru ,Dairy & Eggs,176,Delivered,2
+269,2026-04-23,24,20,Bengaluru,Dairy & Eggs,176,Delivered,3
+270,2026-01-24,6,19,Bengaluru,dairy & eggs,177,Cancelled,5
+271,2026-02-18,21,16,Hyderabad,Dairy & Eggs,176,Delivered,1
+272,2026-03-22,20,19, hyderabad ,Dairy & Eggs,176,Delivered,
+273,2026-06-14,45,19,Pune,Dairy & Eggs,176,Delivered,3
+274,2026-04-02,40,19,Hyderabad,Dairy & Eggs,176,Cancelled,3
+275,2026-06-26,5,19,Mumbai,dairy & eggs,176,Delivered,3
+276,2026-05-26,2,17, pune ,Dairy & Eggs,176,Delivered,5
+277,2026-06-26,3,17,Bengaluru,Dairy & Eggs,176,Delivered,1
+278,2026-02-25,24,19,Hyderabad,Dairy & Eggs,176,Delivered,5
+279,2026-01-20,44,19,Pune,Dairy & Eggs,176,Delivered,3
+280,2026-03-15,37,17, mumbai ,dairy & eggs,176,Delivered,5
+281,2026-03-13,42,18,Hyderabad,Dairy & Eggs,176,Delivered,2
+282,2026-01-01,32,20,Pune,Dairy & Eggs,176,Cancelled,4
+283,2026-05-04,50,18,Hyderabad,Dairy & Eggs,176,Delivered,4
+284,2026-02-20,45,19, hyderabad ,Dairy & Eggs,176,Delivered,2
+285,2026-01-05,29,17,Mumbai,dairy & eggs,176,Delivered,4
+286,2026-01-26,43,18,Hyderabad,Dairy & Eggs,176,Delivered,1
+287,2026-05-18,20,17,Hyderabad,Dairy & Eggs,176,Delivered,2
+288,2026-03-17,8,17, pune ,Dairy & Eggs,176,Delivered,2
+289,2026-02-26,2,18,Bengaluru,Dairy & Eggs,177,Delivered,
+290,2026-05-12,36,17,Bengaluru,dairy & eggs,176,Delivered,5
+291,2026-01-03,26,19,Hyderabad,Dairy & Eggs,176,Delivered,5
+292,2026-04-25,37,16, bengaluru ,Dairy & Eggs,176,Delivered,2
+293,2026-03-21,29,19,Mumbai,Dairy & Eggs,176,Delivered,5
+294,2026-03-05,50,17,Pune,Dairy & Eggs,176,Delivered,4
+295,2026-05-28,8,20,Mumbai,dairy & eggs,176,Delivered,2
+296,2026-03-06,21,17, pune ,Dairy & Eggs,,Delivered,3
+297,2026-05-10,17,17,Mumbai,Dairy & Eggs,177,Delivered,5
+298,2026-03-05,40,20,Hyderabad,Dairy & Eggs,176,Cancelled,1
+299,2026-05-21,38,20,Pune,Dairy & Eggs,176,Cancelled,2
+300,2026-02-22,37,16, hyderabad ,dairy & eggs,176,Delivered,1
+301,2026-01-02,42,17,Hyderabad,Dairy & Eggs,176,Delivered,5
+302,2026-04-20,32,20,Mumbai,Dairy & Eggs,176,Delivered,3
+303,2026-06-10,16,19,Bengaluru,Dairy & Eggs,176,Delivered,3
+304,2026-04-03,11,19, mumbai ,Dairy & Eggs,177,Delivered,4
+305,2026-04-15,22,20,Pune,dairy & eggs,177,Delivered,2
+306,2026-03-28,47,18,Hyderabad,Dairy & Eggs,177,Delivered,
+307,2026-02-25,33,20,Hyderabad,Dairy & Eggs,176,Delivered,1
+308,2026-03-08,8,18, bengaluru ,Dairy & Eggs,176,Delivered,4
+309,2026-02-05,4,18,Mumbai,Dairy & Eggs,176,Delivered,4
+310,2026-05-14,11,18,Pune,dairy & eggs,176,Delivered,5
+311,2026-06-11,49,17,Pune,Dairy & Eggs,176,Cancelled,4
+312,2026-05-15,20,19, bengaluru ,Dairy & Eggs,177,Delivered,1
+313,2026-01-13,16,17,Bengaluru,Dairy & Eggs,176,Cancelled,5
+314,2026-03-02,19,19,Mumbai,Dairy & Eggs,176,Delivered,5
+315,2026-06-22,19,20,Bengaluru,dairy & eggs,177,Cancelled,1
+316,2026-01-14,17,18, pune ,Dairy & Eggs,176,Delivered,4
+317,2026-03-02,4,20,Bengaluru,Dairy & Eggs,176,Delivered,5
+318,2026-02-12,5,19,Hyderabad,Dairy & Eggs,176,Delivered,5
+319,2026-04-25,40,20,Hyderabad,Dairy & Eggs,176,Pending,1
+320,2026-02-04,24,18, bengaluru ,dairy & eggs,176,Delivered,5
+321,2026-03-25,13,20,Pune,Dairy & Eggs,177,Delivered,5
+322,2026-04-17,3,16,Mumbai,Dairy & Eggs,176,Delivered,2
+323,2026-06-11,34,19,Bengaluru,Dairy & Eggs,177,Delivered,
+324,2026-05-17,21,20, pune ,Dairy & Eggs,176,Delivered,3
+325,2026-02-13,38,18,Hyderabad,dairy & eggs,176,Delivered,5
+326,2026-05-18,46,20,Bengaluru,Dairy & Eggs,176,Delivered,3
+327,2026-04-27,24,18,Mumbai,Dairy & Eggs,176,Delivered,1
+328,2026-04-19,47,16, hyderabad ,Dairy & Eggs,176,Delivered,5
+329,2026-04-09,47,16,Pune,Dairy & Eggs,176,Delivered,5
+330,2026-04-06,10,17,Bengaluru,dairy & eggs,176,Delivered,1
+331,2026-05-23,13,16,Mumbai,Dairy & Eggs,176,Delivered,4
+332,2026-03-14,27,17, pune ,Dairy & Eggs,176,Delivered,4
+333,2026-05-25,48,16,Bengaluru,Dairy & Eggs,,Delivered,2
+334,2026-05-07,43,19,Hyderabad,Dairy & Eggs,176,Pending,5
+335,2026-04-11,30,20,Pune,dairy & eggs,176,Delivered,3
+336,2026-05-12,40,19, hyderabad ,Dairy & Eggs,176,Delivered,2
+337,2026-02-09,15,18,Hyderabad,Dairy & Eggs,176,Delivered,3
+338,2026-02-24,3,21,Hyderabad,Snacks & Beverages,139,Cancelled,3
+339,2026-05-20,22,23,Mumbai,Snacks & Beverages,99999,Delivered,4
+340,2026-06-18,9,25, bengaluru ,snacks & beverages,140,Delivered,
+341,2026-03-07,22,22,Mumbai,Snacks & Beverages,140,Delivered,4
+342,2026-06-09,1,23,Pune,Snacks & Beverages,140,Delivered,3
+343,2026-05-22,12,25,Pune,Snacks & Beverages,140,Delivered,4
+344,2026-04-17,6,24, hyderabad ,Snacks & Beverages,140,Delivered,1
+345,2026-02-05,21,22,Bengaluru,snacks & beverages,140,Delivered,1
+346,2026-03-13,29,23,Pune,Snacks & Beverages,139,Delivered,3
+347,2026-03-19,17,23,Mumbai,Snacks & Beverages,140,Cancelled,2
+348,2026-01-22,30,23, mumbai ,Snacks & Beverages,139,Delivered,2
+349,2026-04-22,45,21,Hyderabad,Snacks & Beverages,140,Delivered,3
+350,2026-03-20,15,22,Pune,snacks & beverages,139,Delivered,4
+351,2026-02-15,27,25,Hyderabad,Snacks & Beverages,140,Delivered,4
+352,2026-05-26,49,22, pune ,Snacks & Beverages,139,Delivered,5
+353,2026-01-17,34,23,Bengaluru,Snacks & Beverages,140,Delivered,1
+354,2026-05-04,36,25,Mumbai,Snacks & Beverages,139,Delivered,2
+355,2026-05-18,11,23,Pune,snacks & beverages,140,Pending,5
+356,2026-04-04,46,25, pune ,Snacks & Beverages,140,Pending,4
+357,2026-01-17,4,24,Bengaluru,Snacks & Beverages,139,Delivered,
+358,2026-05-14,37,21,Bengaluru,Snacks & Beverages,140,Delivered,5
+359,2026-04-22,47,21,Hyderabad,Snacks & Beverages,139,Delivered,4
+360,2026-03-27,48,22, mumbai ,snacks & beverages,140,Delivered,5
+361,2026-01-02,23,21,Bengaluru,Snacks & Beverages,140,Delivered,5
+362,2026-01-03,3,23,Bengaluru,Snacks & Beverages,139,Pending,4
+363,2026-02-25,50,24,Pune,Snacks & Beverages,140,Delivered,3
+364,2026-04-15,25,21, bengaluru ,Snacks & Beverages,140,Delivered,5
+365,2026-02-21,8,22,Hyderabad,snacks & beverages,140,Delivered,5
+366,2026-04-17,47,22,Pune,Snacks & Beverages,140,Delivered,1
+367,2026-01-10,44,25,Bengaluru,Snacks & Beverages,140,Delivered,4
+368,2026-05-13,16,24, pune ,Snacks & Beverages,139,Cancelled,3
+369,2026-02-09,47,21,Pune,Snacks & Beverages,139,Delivered,1
+370,2026-06-14,16,22,Mumbai,snacks & beverages,,Delivered,1
+371,2026-01-20,29,25,Mumbai,Snacks & Beverages,139,Delivered,1
+372,2026-02-24,26,24, mumbai ,Snacks & Beverages,139,Delivered,2
+373,2026-05-07,9,25,Mumbai,Snacks & Beverages,140,Delivered,3
+374,2026-02-27,37,25,Hyderabad,Snacks & Beverages,140,Delivered,
+375,2026-02-10,43,25,Pune,snacks & beverages,140,Delivered,2
+376,2026-04-10,4,25, hyderabad ,Snacks & Beverages,140,Delivered,5
+377,2026-06-06,36,24,Bengaluru,Snacks & Beverages,140,Delivered,1
+378,2026-03-21,34,23,Bengaluru,Snacks & Beverages,139,Delivered,4
+379,2026-04-05,25,22,Hyderabad,Snacks & Beverages,139,Delivered,5
+380,2026-04-08,20,22, pune ,snacks & beverages,139,Delivered,4
+381,2026-01-18,27,25,Bengaluru,Snacks & Beverages,140,Delivered,5
+382,2026-02-13,17,22,Pune,Snacks & Beverages,140,Delivered,3
+383,2026-06-03,24,21,Bengaluru,Snacks & Beverages,140,Cancelled,5
+384,2026-06-27,4,23, pune ,Snacks & Beverages,140,Delivered,4
+385,2026-06-20,5,22,Mumbai,snacks & beverages,139,Delivered,5
+386,2026-06-22,31,22,Pune,Snacks & Beverages,139,Delivered,3
+387,2026-03-01,13,21,Pune,Snacks & Beverages,140,Delivered,4
+388,2026-02-23,26,22, pune ,Snacks & Beverages,140,Delivered,5
+389,2026-03-25,25,24,Hyderabad,Snacks & Beverages,140,Delivered,5
+390,2026-06-12,17,23,Hyderabad,snacks & beverages,140,Delivered,5
+391,2026-04-15,47,24,Mumbai,Snacks & Beverages,140,Delivered,
+392,2026-02-12,27,21, hyderabad ,Snacks & Beverages,140,Cancelled,5
+393,2026-02-24,2,23,Pune,Snacks & Beverages,140,Delivered,5
+394,2026-05-19,19,22,Bengaluru,Snacks & Beverages,140,Delivered,2
+395,2026-03-08,37,22,Bengaluru,snacks & beverages,140,Delivered,4
+396,2026-05-21,17,24, hyderabad ,Snacks & Beverages,140,Delivered,4
+397,2026-04-06,11,22,Hyderabad,Snacks & Beverages,139,Delivered,5
+398,2026-04-06,34,21,Mumbai,Snacks & Beverages,140,Cancelled,1
+399,2026-06-02,27,22,Mumbai,Snacks & Beverages,139,Delivered,2
+400,2026-01-23,1,22, pune ,snacks & beverages,139,Delivered,5
+401,2026-04-12,40,25,Mumbai,Snacks & Beverages,140,Delivered,4
+402,2026-06-16,1,25,Mumbai,Snacks & Beverages,140,Delivered,5
+403,2026-04-01,34,23,Mumbai,Snacks & Beverages,140,Delivered,5
+404,2026-03-01,12,21, bengaluru ,Snacks & Beverages,139,Delivered,1
+405,2026-05-05,13,25,Pune,snacks & beverages,140,Delivered,5
+406,2026-03-27,18,24,Hyderabad,Snacks & Beverages,140,Delivered,1
+407,2026-03-13,37,22,Bengaluru,Snacks & Beverages,,Delivered,2
+408,2026-03-22,42,21, mumbai ,Snacks & Beverages,140,Delivered,
+409,2026-04-13,36,24,Bengaluru,Snacks & Beverages,140,Delivered,1
+410,2026-06-01,6,24,Pune,snacks & beverages,139,Delivered,4
+411,2026-06-26,37,21,Hyderabad,Snacks & Beverages,140,Delivered,5
+412,2026-01-08,45,25, pune ,Snacks & Beverages,139,Delivered,4
+413,2026-03-02,44,23,Mumbai,Snacks & Beverages,140,Delivered,5
+414,2026-05-22,12,23,Mumbai,Snacks & Beverages,139,Delivered,1
+415,2026-02-19,49,24,Pune,snacks & beverages,140,Delivered,1
+416,2026-05-17,44,29, pune ,Fruits & Vegetables,115,Delivered,2
+417,2026-02-09,18,29,Hyderabad,Fruits & Vegetables,115,Delivered,2
+418,2026-01-06,18,29,Bengaluru,Fruits & Vegetables,116,Pending,3
+419,2026-04-26,24,28,Mumbai,Fruits & Vegetables,115,Delivered,2
+420,2026-06-21,39,30, bengaluru ,fruits & vegetables,115,Pending,2
+421,2026-04-04,20,26,Pune,Fruits & Vegetables,115,Delivered,4
+422,2026-03-27,22,29,Bengaluru,Fruits & Vegetables,115,Delivered,3
+423,2026-04-27,20,28,Pune,Fruits & Vegetables,115,Delivered,5
+424,2026-06-07,21,27, bengaluru ,Fruits & Vegetables,115,Delivered,4
+425,2026-03-10,37,27,Bengaluru,fruits & vegetables,115,Delivered,
+426,2026-04-09,24,26,Bengaluru,Fruits & Vegetables,115,Delivered,5
+427,2026-02-19,44,30,Pune,Fruits & Vegetables,115,Delivered,1
+428,2026-06-15,29,28, pune ,Fruits & Vegetables,115,Delivered,1
+429,2026-04-22,9,28,Bengaluru,Fruits & Vegetables,115,Delivered,2
+430,2026-03-22,46,29,Pune,fruits & vegetables,116,Delivered,4
+431,2026-01-15,38,29,Bengaluru,Fruits & Vegetables,115,Delivered,5
+432,2026-05-28,35,26, bengaluru ,Fruits & Vegetables,115,Delivered,3
+433,2026-06-26,7,27,Mumbai,Fruits & Vegetables,115,Delivered,3
+434,2026-02-21,37,29,Mumbai,Fruits & Vegetables,115,Delivered,3
+435,2026-04-04,7,28,Mumbai,fruits & vegetables,115,Delivered,2
+436,2026-05-24,29,28, pune ,Fruits & Vegetables,115,Delivered,4
+437,2026-04-25,23,26,Pune,Fruits & Vegetables,115,Delivered,4
+438,2026-01-10,6,26,Bengaluru,Fruits & Vegetables,116,Delivered,2
+439,2026-03-10,30,27,Hyderabad,Fruits & Vegetables,115,Delivered,5
+440,2026-04-12,7,29, bengaluru ,fruits & vegetables,116,Delivered,4
+441,2026-03-03,3,26,Hyderabad,Fruits & Vegetables,115,Delivered,1
+442,2026-03-21,44,27,Mumbai,Fruits & Vegetables,115,Delivered,
+443,2026-05-06,22,30,Pune,Fruits & Vegetables,116,Delivered,4
+444,2026-04-08,41,27, bengaluru ,Fruits & Vegetables,,Delivered,2
+445,2026-06-22,26,26,Bengaluru,fruits & vegetables,115,Delivered,5
+446,2026-02-15,25,26,Bengaluru,Fruits & Vegetables,115,Delivered,2
+447,2026-02-09,37,26,Mumbai,Fruits & Vegetables,115,Delivered,5
+448,2026-02-12,13,29, hyderabad ,Fruits & Vegetables,116,Delivered,1
+449,2026-03-22,34,28,Bengaluru,Fruits & Vegetables,115,Delivered,5
+450,2026-04-20,38,26,Bengaluru,fruits & vegetables,115,Delivered,3
+451,2026-03-28,40,27,Bengaluru,Fruits & Vegetables,115,Delivered,3
+452,2026-05-19,44,27, mumbai ,Fruits & Vegetables,99999,Delivered,3
+453,2026-01-08,8,27,Hyderabad,Fruits & Vegetables,115,Delivered,3
+454,2026-06-05,27,30,Bengaluru,Fruits & Vegetables,115,Delivered,2
+455,2026-05-13,12,29,Bengaluru,fruits & vegetables,115,Delivered,5
+456,2026-06-21,36,27, pune ,Fruits & Vegetables,115,Delivered,4
+457,2026-03-05,21,29,Pune,Fruits & Vegetables,115,Delivered,5
+458,2026-01-28,1,29,Hyderabad,Fruits & Vegetables,115,Delivered,2
+459,2026-02-27,36,30,Bengaluru,Fruits & Vegetables,116,Delivered,
+460,2026-04-22,27,29, bengaluru ,fruits & vegetables,115,Delivered,4
+461,2026-02-03,49,27,Mumbai,Fruits & Vegetables,115,Delivered,3
+462,2026-01-09,35,28,Pune,Fruits & Vegetables,115,Delivered,2
+463,2026-04-19,36,30,Bengaluru,Fruits & Vegetables,116,Delivered,1
+464,2026-05-04,50,30, hyderabad ,Fruits & Vegetables,115,Delivered,3
+465,2026-05-27,49,29,Mumbai,fruits & vegetables,115,Delivered,5
+466,2026-02-14,48,27,Mumbai,Fruits & Vegetables,115,Delivered,3
+467,2026-01-15,23,26,Hyderabad,Fruits & Vegetables,115,Delivered,4
+468,2026-01-25,14,30, pune ,Fruits & Vegetables,116,Delivered,3
+469,2026-06-20,11,30,Bengaluru,Fruits & Vegetables,115,Delivered,2
+470,2026-02-27,4,30,Pune,fruits & vegetables,115,Delivered,3
+471,2026-05-09,21,28,Pune,Fruits & Vegetables,115,Delivered,3
+472,2026-05-09,9,29, mumbai ,Fruits & Vegetables,115,Delivered,1
+473,2026-03-28,45,27,Pune,Fruits & Vegetables,116,Delivered,2
+474,2026-02-23,16,29,Hyderabad,Fruits & Vegetables,115,Delivered,4
+475,2026-02-19,41,29,Hyderabad,fruits & vegetables,115,Delivered,4
+476,2026-04-03,26,30, mumbai ,Fruits & Vegetables,115,Delivered,
+477,2026-06-12,32,28,Bengaluru,Fruits & Vegetables,115,Cancelled,5
+478,2026-01-28,47,29,Mumbai,Fruits & Vegetables,115,Delivered,3
+479,2026-01-26,14,29,Bengaluru,Fruits & Vegetables,116,Delivered,2
+480,2026-04-09,19,28, hyderabad ,fruits & vegetables,115,Delivered,5
+481,2026-05-05,22,26,Bengaluru,Fruits & Vegetables,,Delivered,1
+482,2026-01-21,2,26,Bengaluru,Fruits & Vegetables,115,Delivered,2
+483,2026-04-15,28,27,Mumbai,Fruits & Vegetables,116,Delivered,2
+484,2026-06-10,18,26, pune ,Fruits & Vegetables,115,Delivered,3
+485,2026-03-03,43,27,Hyderabad,fruits & vegetables,115,Delivered,1
+486,2026-04-21,47,27,Hyderabad,Fruits & Vegetables,116,Delivered,4
+487,2026-06-03,1,27,Mumbai,Fruits & Vegetables,116,Delivered,4
+488,2026-01-05,34,29, pune ,Fruits & Vegetables,115,Delivered,1
+489,2026-01-23,8,29,Hyderabad,Fruits & Vegetables,115,Delivered,2
+490,2026-04-03,25,26,Pune,fruits & vegetables,116,Delivered,1
+491,2026-01-11,20,27,Hyderabad,Fruits & Vegetables,115,Delivered,4
+492,2026-02-21,5,30, pune ,Fruits & Vegetables,115,Delivered,5
+493,2026-01-20,29,28,Pune,Fruits & Vegetables,115,Delivered,
+494,2026-06-24,27,30,Pune,Fruits & Vegetables,115,Delivered,4
+495,2026-02-03,9,26,Mumbai,fruits & vegetables,115,Delivered,5
+496,2026-06-13,28,28, hyderabad ,Fruits & Vegetables,115,Cancelled,2
+497,2026-02-09,16,30,Mumbai,Fruits & Vegetables,115,Delivered,5
+498,2026-05-24,50,26,Hyderabad,Fruits & Vegetables,115,Delivered,3
+499,2026-02-17,48,29,Pune,Fruits & Vegetables,115,Delivered,3
+500,2026-06-02,32,29, pune ,fruits & vegetables,115,Pending,1
